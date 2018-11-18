@@ -1,2 +1,2 @@
-Ashintosh
-freekey
+Ashintosh //AdminKey
+freekey //FreeUser
